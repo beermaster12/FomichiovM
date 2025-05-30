@@ -1,6 +1,6 @@
 INFO:     Will watch for changes in these directories: ['/content']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [45195] using StatReload
+INFO:     Started reloader process [51932] using StatReload
 Process SpawnProcess-1:
 Traceback (most recent call last):
   File "/usr/lib/python3.11/multiprocessing/process.py", line 314, in _bootstrap
