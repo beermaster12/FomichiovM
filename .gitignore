@@ -50,3 +50,7 @@ drive/MyDrive/*.gsheet
 *.gsheet
 *.gslides
 *gform
+*.gdoc
+*.gsheet
+*.gslides
+*gform
